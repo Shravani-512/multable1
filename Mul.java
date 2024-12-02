@@ -1,4 +1,4 @@
-public class MultiplicationTable {
+public class Mul {
     public static void main(String[] args) {
         // Define the number for which the multiplication table will be printed
         int number = 5;  // You can change this number as needed
